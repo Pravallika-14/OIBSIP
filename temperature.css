@@ -1,0 +1,36 @@
+#convert
+{
+    border-radius: 12px;
+    width: 150px;
+    height: 50px;
+    background-color: blue;
+    color: white;
+    font-style: oblique;
+    font-weight: 900;
+}
+label{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: 600;
+}
+#celcius,#fahrenheit{
+    height: 25px;
+    width: 50px;
+}
+h1{
+    font-size: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 800;
+    font-style: oblique;
+}
+#input,#output{
+     height: 45px;
+     width: 300px;
+     font-size: 25px;
+}
+body{
+    background-image: url(https://img.muskokaradio.com/media/weather/cold_temps_thermometer.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
